@@ -18,8 +18,6 @@ Key Skills Demonstrated:
 
 Virtualization concepts, Operating system installation, Resource allocation and configuration, Troubleshooting installation issues, and System setup and environment management.
 
-Screenshots
-
 Screenshots included in this repository document:
 
 Virtual machine creation settings, Operating system installation steps, Successful VM boot process, and Final configured virtual environment.
