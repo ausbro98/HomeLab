@@ -1,6 +1,6 @@
 Active Directory Installation & Configuration Project
 
-This project demonstrates the installation and configuration of an Active Directory environment using Windows Server. The goal was to build a functional domain environment commonly used in enterprise IT infrastructures to practice system administration and help desk support tasks.
+This project demonstrates the installation and configuration of an Active Directory environment using Windows Server. The goal was to build a functional domain environment commonly used in enterprise IT infrastructures to practice system administration and technical support tasks.
 
 Project Objectives:
 - Install and configure Windows Server
