@@ -1,7 +1,11 @@
 Virtual Machine Installation Project
 
 This project demonstrates the setup and configuration of a virtual machine environment using virtualization software. The goal was to create a fully functional virtual machine capable of running a separate operating system for testing, learning, and system administration practice.
+- hg
+- jjg
+- jgjg
 
+  
 Project Objectives:
 
 Install and configure virtualization software. Create a new virtual machine instance. Allocate system resources (RAM, CPU, storage). Install an operating system inside the VM. Configure networking and basic system settings. Verify successful boot and functionality.
