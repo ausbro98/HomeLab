@@ -14,7 +14,7 @@ Technologies & Tools Used:
 - Windows Server
 - Active Directory Domain Services (AD DS)
 - DNS Configuration
-- VirtualBox / VMware
+- VirtualBox
 - Windows Client Machine
 - Group Policy Management
 
@@ -49,4 +49,4 @@ Screenshots included in this repository document:
 
 Outcome:
 
-Successfully deployed and configured a working Active Directory domain environment suitable for practicing enterprise IT administration, user management, authentication, and help desk support tasks.
+Successfully deployed and configured a working Active Directory domain environment suitable for practicing enterprise IT administration, user management, authentication, and other technical support tasks.
