@@ -1,24 +1,22 @@
-Active Directory Installation & Configuration Project:
+Active Directory Installation & Configuration Project
 
 This project demonstrates the installation and configuration of an Active Directory environment using Windows Server. The goal was to build a functional domain environment commonly used in enterprise IT infrastructures to practice system administration and help desk support tasks.
 
 Project Objectives:
-
-Install and configure Windows Server
-Set up Active Directory Domain Services (AD DS)
-Promote the server to a Domain Controller
-Create and manage users, groups, and organizational units (OUs)
+- Install and configure Windows Server
+- Set up Active Directory Domain Services (AD DS)
+- Promote the server to a Domain Controller
+- Create and manage users, groups, and organizational units (OUs)
 Configure domain policies and user permissions
-Test domain connectivity and authentication
+- Test domain connectivity and authentication
 
 Technologies & Tools Used:
-
-Windows Server
-Active Directory Domain Services (AD DS)
-DNS Configuration
-VirtualBox / VMware
-Windows Client Machine
-Group Policy Management
+- Windows Server
+- Active Directory Domain Services (AD DS)
+- DNS Configuration
+- VirtualBox / VMware
+- Windows Client Machine
+- Group Policy Management
 
 Installation & Configuration Process:
 
@@ -33,23 +31,21 @@ Installation & Configuration Process:
 9. Tested login authentication and network connectivity
 
 Key Skills Demonstrated:
-
-Active Directory administration
-Windows Server configuration
-User and group management
-Domain Controller setup
-DNS and network configuration
-Troubleshooting authentication and connectivity issues
-IT support and system administration fundamentals
+- Active Directory administration
+- Windows Server configuration
+- User and group management
+- Domain Controller setup
+- DNS and network configuration
+- Troubleshooting authentication and connectivity issues
+- IT support and system administration fundamentals
 
 Screenshots included in this repository document:
-
-Windows Server installation
-Active Directory setup process
-Domain Controller configuration
-User and group creation
-Client machine domain join
-Successful domain login and management tools
+- Windows Server installation
+- Active Directory setup process
+- Domain Controller configuration
+- User and group creation
+- Client machine domain join
+- Successful domain login and management tools
 
 Outcome:
 
