@@ -11,20 +11,30 @@ Project Objectives:
 - Verify successful boot and functionality
 
 Technologies & Tools Used:
-
-VirtualBox, ISO Operating System Image, and Windows Operating System.
+- VirtualBox
+- ISO Operating System Image
+- Windows Operating System
 
 Installation Process:
-
-1) Installed virtualization software. 2) Created a new virtual machine. 3) Configured memory, processor, and storage allocation. 4) Mounted the operating system ISO file. 5) Completed OS installation and setup. 6) Logged in displaying successful deployment.
+1) Installed virtualization software
+2) Created a new virtual machine
+3) Configured memory, processor, and storage allocation
+4) Mounted the operating system ISO file
+5) Completed OS installation and setup
+6) Logged in displaying successful deployment
 
 Key Skills Demonstrated:
-
-Virtualization concepts, Operating system installation, Resource allocation and configuration, Troubleshooting installation issues, and System setup and environment management.
+- Virtualization concepts
+- Operating system installation
+- Resource allocation and configuration
+- Troubleshooting installation issues
+- System setup and environment management
 
 Screenshots included in this repository document:
-
-Virtual machine creation settings, Operating system installation steps, Successful VM boot process, and Final configured virtual environment.
+- Virtual machine creation settings
+- Operating system installation steps
+- Successful VM boot process
+- Final configured virtual environment
 
 Outcome:
 
